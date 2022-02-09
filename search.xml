@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/01/09/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>my first blog</title>
+    <url>/2022/01/09/my-first-blog/</url>
+    <content><![CDATA[<h2 id="Hinc-itur-ad-astra"><a href="#Hinc-itur-ad-astra" class="headerlink" title="Hinc itur ad astra."></a>Hinc itur ad astra.</h2><hr>
+]]></content>
+      <categories>
+        <category>随便写写</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Markdown语法</title>
+    <url>/2022/01/10/Markdown%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<p><em>斜体</em><br><strong>加粗</strong><br><em><strong>加粗斜体</strong></em><br><del>删除线</del></p>
+<span id="more"></span>
+<hr>
+<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p><em>斜体</em><br><strong>加粗</strong><br><em><strong>加粗斜体</strong></em><br><del>删除线</del></p>
+<hr>
+<p><code>单行代码</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">balabala</span><br><span class="line">balabala</span><br><span class="line">balabala</span><br></pre></td></tr></table></figure>
+<hr>
+<p>-列表1<br>-列表2</p>
+<hr>
+<p><a href="https://github.com/yuioppp">链接</a><br><img src="" alt="图片"></p>
+<hr>
+<blockquote>
+<p>引用</p>
+</blockquote>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title: Markdown语法</span><br><span class="line">date: 2022-01-10 19:57:54</span><br><span class="line">tags: </span><br><span class="line">categories: 笔记</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">*斜体*</span><br><span class="line">**加粗**</span><br><span class="line">***加粗斜体***</span><br><span class="line">~~删除线~~</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">*斜体*</span><br><span class="line">**加粗**</span><br><span class="line">***加粗斜体***</span><br><span class="line">~~删除线~~</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">`单行代码`</span><br></pre></td></tr></table></figure>
+<p>balabala<br>balabala<br>balabala</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">```</span><br><span class="line">-列表1</span><br><span class="line">-列表2</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[链接](https://github.com/yuioppp)</span><br><span class="line">![图片]()</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt;引用</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+  </entry>
+</search>
