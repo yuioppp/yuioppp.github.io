@@ -1,67 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>C语言思维导图</title>
-    <url>/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</url>
-    <content><![CDATA[<span id="more"></span>
-
-<p><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/01.png" alt="01"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/02.png" alt="02"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/03.png" alt="03"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/04.png" alt="04"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/05.png" alt="05"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/06.png" alt="06"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Markdown语法</title>
-    <url>/2022/01/10/Markdown%E8%AF%AD%E6%B3%95/</url>
-    <content><![CDATA[<p><em>斜体</em><br><strong>加粗</strong><br><em><strong>加粗斜体</strong></em><br><del>删除线</del></p>
-<span id="more"></span>
-<hr>
-<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p><em>斜体</em><br><strong>加粗</strong><br><em><strong>加粗斜体</strong></em><br><del>删除线</del></p>
-<hr>
-<p><code>单行代码</code></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">balabala</span><br><span class="line">balabala</span><br><span class="line">balabala</span><br></pre></td></tr></table></figure>
-<hr>
-<p>-列表1<br>-列表2</p>
-<hr>
-<p><a href="https://github.com/yuioppp">链接</a><br><img src alt="图片"></p>
-<hr>
-<blockquote>
-<p>引用</p>
-</blockquote>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">*斜体*</span><br><span class="line">**加粗**</span><br><span class="line">***加粗斜体***</span><br><span class="line">~~删除线~~</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">*斜体*</span><br><span class="line">**加粗**</span><br><span class="line">***加粗斜体***</span><br><span class="line">~~删除线~~</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">`单行代码`</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-列表1</span><br><span class="line">-列表2</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[链接](https://github.com/yuioppp)</span><br><span class="line">![图片]()</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt;引用</span><br></pre></td></tr></table></figure>]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>《给青年的十二封信》读书笔记</title>
+      <link href="/2022/03/09/%E3%80%8A%E7%BB%99%E9%9D%92%E5%B9%B4%E7%9A%84%E5%8D%81%E4%BA%8C%E5%B0%81%E4%BF%A1%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <url>/2022/03/09/%E3%80%8A%E7%BB%99%E9%9D%92%E5%B9%B4%E7%9A%84%E5%8D%81%E4%BA%8C%E5%B0%81%E4%BF%A1%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<p><em>《给青年的十二封信》</em><br><em>作者：朱光潜</em><br><em>阅读日期：2022/2/21</em></p><span id="more"></span><hr><p><em><strong>摘抄</strong></em></p><p>一、谈读书</p><blockquote><p>你长大一岁，你感觉兴味的锐敏力便须迟钝一分。<br>第一，凡值得读的书至少须读两遍。第一遍须快读，着眼在醒豁全篇大旨与特色。第二遍须慢读，须以批评态度衡量书的内容。第二，读过一本书，须笔记纲要和精彩的地方和你自己的意见。记笔记不特可以帮助你记忆，而且可以逼得你仔细，刺激你思考。</p></blockquote><p>二、谈动</p><blockquote><p>你感觉烦恼，因为你的生机被抑郁；你要想快乐，须得使你的生机能舒畅，能宣泄。<br>总之，愁生于郁，解愁的方法在泄；郁由于静止、求泄的方法在动。</p></blockquote><p>五、谈十字街头</p><blockquote><p>人类须有法律道德维持，固足证其顽劣；然而人类既顽劣，道德法律也就不能勾销。<br>习俗的背叛者比习俗的顺从者较为难能可贵，从历史看社会进化，都是靠着几个站在十字街头而能向十字街头宣战的人。这般人的报酬往往不是十字架，就是断头台。可是世间只有他们才是不朽，倘若世界没有他们这些殉道者，人类早已为乌烟瘴气闷死了。<br>一种社会所最可怕的不是民众浮浅顽劣，因为民众通常都是浮浅顽劣的。它所最可怕的是没有在浮浅卑劣的环境中而能不浮浅不卑劣的人。</p></blockquote><hr>]]></content>
+      
+      
       <categories>
-        <category>笔记</category>
+          
+          <category> 读书笔记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2022/01/09/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>my first blog</title>
-    <url>/2022/01/09/my-first-blog/</url>
-    <content><![CDATA[<h2 id="Hinc-itur-ad-astra"><a href="#Hinc-itur-ad-astra" class="headerlink" title="Hinc itur ad astra."></a>Hinc itur ad astra.</h2><hr>
-]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>C语言思维导图</title>
+      <link href="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/"/>
+      <url>/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</url>
+      
+        <content type="html"><![CDATA[<span id="more"></span><p><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/01.png" alt="01"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/02.png" alt="02"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/03.png" alt="03"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/04.png" alt="04"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/05.png" alt="05"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/06.png" alt="06"></p>]]></content>
+      
+      
       <categories>
-        <category>随便写写</category>
+          
+          <category> 笔记 </category>
+          
       </categories>
-  </entry>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Markdown语法</title>
+      <link href="/2022/01/10/Markdown%E8%AF%AD%E6%B3%95/"/>
+      <url>/2022/01/10/Markdown%E8%AF%AD%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<p><em>斜体</em><br><strong>加粗</strong><br><em><strong>加粗斜体</strong></em><br><del>删除线</del></p><span id="more"></span><hr><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p><em>斜体</em><br><strong>加粗</strong><br><em><strong>加粗斜体</strong></em><br><del>删除线</del></p><hr><p><code>单行代码</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">balabala</span><br><span class="line">balabala</span><br><span class="line">balabala</span><br></pre></td></tr></table></figure><hr><p>-列表1<br>-列表2</p><hr><p><a href="https://github.com/yuioppp">链接</a><br><img src alt="图片"></p><hr><blockquote><p>引用</p></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">*斜体*</span><br><span class="line">**加粗**</span><br><span class="line">***加粗斜体***</span><br><span class="line">~~删除线~~</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">*斜体*</span><br><span class="line">**加粗**</span><br><span class="line">***加粗斜体***</span><br><span class="line">~~删除线~~</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`单行代码`</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">-列表1</span><br><span class="line">-列表2</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">[链接](https://github.com/yuioppp)</span><br><span class="line">![图片]()</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&gt;引用</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>my first blog</title>
+      <link href="/2022/01/09/my-first-blog/"/>
+      <url>/2022/01/09/my-first-blog/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Hinc-itur-ad-astra"><a href="#Hinc-itur-ad-astra" class="headerlink" title="Hinc itur ad astra."></a>Hinc itur ad astra.</h2><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随便写写 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/01/09/hello-world/"/>
+      <url>/2022/01/09/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
