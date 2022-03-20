@@ -1,46 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>C语言思维导图</title>
-    <url>/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</url>
-    <content><![CDATA[<span id="more"></span>
-
-<p><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/01.png" alt="01"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/02.png" alt="02"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/03.png" alt="03"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/04.png" alt="04"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/05.png" alt="05"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/06.png" alt="06"></p>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Markdown语法</title>
-    <url>/2022/01/10/Markdown%E8%AF%AD%E6%B3%95/</url>
-    <content><![CDATA[<p><em>斜体</em><br><strong>加粗</strong><br><em><strong>加粗斜体</strong></em><br><del>删除线</del></p>
-<span id="more"></span>
-<hr>
-<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p><em>斜体</em><br><strong>加粗</strong><br><em><strong>加粗斜体</strong></em><br><del>删除线</del></p>
-<hr>
-<p><code>单行代码</code></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">balabala</span><br><span class="line">balabala</span><br><span class="line">balabala</span><br></pre></td></tr></table></figure>
-<hr>
-<p>-列表1<br>-列表2</p>
-<hr>
-<p><a href="https://github.com/yuioppp">链接</a><br><img src alt="图片"></p>
-<hr>
-<blockquote>
-<p>引用</p>
-</blockquote>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">*斜体*</span><br><span class="line">**加粗**</span><br><span class="line">***加粗斜体***</span><br><span class="line">~~删除线~~</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">*斜体*</span><br><span class="line">**加粗**</span><br><span class="line">***加粗斜体***</span><br><span class="line">~~删除线~~</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">`单行代码`</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-列表1</span><br><span class="line">-列表2</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[链接](https://github.com/yuioppp)</span><br><span class="line">![图片]()</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt;引用</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2022/01/09/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -66,6 +26,38 @@
       <categories>
         <category>随便写写</category>
       </categories>
+  </entry>
+  <entry>
+    <title>C语言思维导图</title>
+    <url>/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</url>
+    <content><![CDATA[<span id="more"></span>
+
+<p><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/01.png" alt="01"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/02.png" alt="02"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/03.png" alt="03"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/04.png" alt="04"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/05.png" alt="05"><br><img src="/2022/02/22/C%E8%AF%AD%E8%A8%80%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/06.png" alt="06"></p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>C语言</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数据库-范式总结</title>
+    <url>/2022/03/20/%E6%95%B0%E6%8D%AE%E5%BA%93-%E8%8C%83%E5%BC%8F%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<p>范式的定义与分解</p>
+<span id="more"></span>
+<h3 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1NF:不可分割</span><br><span class="line">2NF:非主属性都完全依赖于码（不存在非主属性对码的部分依赖）</span><br><span class="line">3NF:对于每个非平凡FD，或者左边为超键，或者右边为主属性</span><br><span class="line">BCNF:每个非平凡依赖的左边是超键</span><br><span class="line">     BCNF → 不存在非主对码的部分、传递依赖</span><br><span class="line">4NF:对于每个非平凡多值依赖，左边是超键</span><br></pre></td></tr></table></figure>
+
+<h3 id="3NF分解算法"><a href="#3NF分解算法" class="headerlink" title="3NF分解算法"></a>3NF分解算法</h3><p><img src="/2022/03/20/%E6%95%B0%E6%8D%AE%E5%BA%93-%E8%8C%83%E5%BC%8F%E6%80%BB%E7%BB%93/3nf.jpg" alt="01"></p>
+<h3 id="BCNF分解算法"><a href="#BCNF分解算法" class="headerlink" title="BCNF分解算法"></a>BCNF分解算法</h3><p><img src="/2022/03/20/%E6%95%B0%E6%8D%AE%E5%BA%93-%E8%8C%83%E5%BC%8F%E6%80%BB%E7%BB%93/bcnf.jpg" alt="02"></p>
+<h3 id="4NF分解算法"><a href="#4NF分解算法" class="headerlink" title="4NF分解算法"></a>4NF分解算法</h3><p><img src="/2022/03/20/%E6%95%B0%E6%8D%AE%E5%BA%93-%E8%8C%83%E5%BC%8F%E6%80%BB%E7%BB%93/4nf.jpg" alt="03"></p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>数据库</tag>
+      </tags>
   </entry>
   <entry>
     <title>《给青年的十二封信》读书笔记</title>
@@ -101,6 +93,35 @@
 ]]></content>
       <categories>
         <category>读书笔记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Markdown语法</title>
+    <url>/2022/01/10/Markdown%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<p><em>斜体</em><br><strong>加粗</strong><br><em><strong>加粗斜体</strong></em><br><del>删除线</del></p>
+<span id="more"></span>
+<hr>
+<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p><em>斜体</em><br><strong>加粗</strong><br><em><strong>加粗斜体</strong></em><br><del>删除线</del></p>
+<hr>
+<p><code>单行代码</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">balabala</span><br><span class="line">balabala</span><br><span class="line">balabala</span><br></pre></td></tr></table></figure>
+<hr>
+<p>-列表1<br>-列表2</p>
+<hr>
+<p><a href="https://github.com/yuioppp">链接</a><br><img src alt="图片"></p>
+<hr>
+<blockquote>
+<p>引用</p>
+</blockquote>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">*斜体*</span><br><span class="line">**加粗**</span><br><span class="line">***加粗斜体***</span><br><span class="line">~~删除线~~</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">*斜体*</span><br><span class="line">**加粗**</span><br><span class="line">***加粗斜体***</span><br><span class="line">~~删除线~~</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">`单行代码`</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">-列表1</span><br><span class="line">-列表2</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[链接](https://github.com/yuioppp)</span><br><span class="line">![图片]()</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt;引用</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>笔记</category>
       </categories>
   </entry>
 </search>
